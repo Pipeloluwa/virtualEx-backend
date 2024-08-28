@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "virtual-ex-storage",
+  "private_key_id": "2fc8c782eaa1cfb105c051a0fb197da132a27214",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDEEBAT4UpyFE8H\n4+bXljqda/lTIuuwnRo1OQ9nmiPWbH7SQ2bkMGxea+/0HnDebUiOijft3qLlDyNo\nYhwypHeTGiadmszy1sRd6H4ZLZrAbWbqVtydxkhh7OKGX/RIeeaWqisqFQVqiN/w\nbhVDLkQ9e3K5nkXoo6Ozabj1EX4hjZR4ikS9Y1D91pUU3TaiRZk5vLYoZJ5nA1UJ\n8gRNHR6hZj4i9xSORghp4OIsQbnefDPDII4ek6Egs/VmbhJrQzeFqZv6MTk0CkiA\naDodofIjdtKZqQbjordB2y+VyKGoHdbpZAKVOFSIOKt0Eaxpy5XsP3LNHjigPKof\n04IfWBXXAgMBAAECgf9nAglwaG00gncDLjmaCtPA4XmctDwgDmo2jEQLqnApt9bp\noX/tY4OMGCl5mIS0V7ZHLVc1IkNzFQEFVoZ6FO692n9vTmVfMHb636tgjxU/BDuN\n4xUFz6c3y7033DH74g/EGKOU+HZgAomlSDDjmus/YhxkaUNRdqgLGwCRwR8DgPNy\nU+GpVRlHUJWdVqg/Rv/gtkrvC5/ofY/VPeFjewwgkPqf7v75KlRdFvkJ7fswFnFv\nyii+348pu2FRAi4wTAVQX0XFk1sUZ/5OxyzD5h6gNgO//bUz6f4NScuPINKHaHtW\nBPKYDXsxAotJYgyc0kIDduQv6N+6eM1j507CmDkCgYEA5/W3bYgWcoFPRCZrm/1u\nO4mzix0fnBgjJsHHVGIndfEAXtQ4D7j6eu4QfVI4arqcQRR6oSL1Og7ee+ktZxAc\nHPFroD3TIgqq1uuSofCrI6+kNwOPAnty+AeyFY6uZPEGp/aM5x8+tBQ9xThehz6l\neDfeTqtbRVMR01KeeicU978CgYEA2GHvt9Le7nQgy9TlMNhbLc8Jy5lgfxDMQLMg\nw6envl9KElWTAxtpbgX10gypJvJBuJV2KN8Bv4GTuhxk1sH5+gLXCbyoFALOpnfE\nf1mNY9FotGd1dUmARIa2PYe5ZGLnlFAaItvNtOzb/10lqIH/WBIsB0sP62zdsfLh\n2+Gbp+kCgYBftjIDzh2FDfpJIplQelgb1QvyoQfD/umyOk8ncIDb15/RgTvIsQkZ\n5FWFgIGq+Gk1KWAYUTZiyHPhKSwE1M7k2nEQY7JU35XyrK2KiKX1Sao20Q8XdRzR\nX0uKPZ+UIygd8kvdqjTTVW7PjBzlLWJVoqfmSiqVBlvamMKvoKS0PQKBgQCNfYzo\n4OSRfDIt1up/RBprG+TF02c771oAPKGCDtErNNgUoQxejcAlB5S0Yz8AjozXDDSV\niS11cl+M5SAzJeg1yUGfxlMJssQ6Kjq9I2vHB5m1zakKpqNPK99i4Ksjr2DKpI5S\nmPQsCG3az6feRhMYHdnYcwbX5PoacD2sMBw+cQKBgBzC6EvImnwRnQvK6aU5w9EJ\nEGprqkmMSngTiYAb0Ty8RGxOBkHzLp4J647oQpCjkHpIJkqCRxJH6QmOZkSqcL/W\n5e9/L3UqP+o+Zeiqx5cyBUF8QzO96B1oWAJj9Q4JSNn8/Labmdw7Ajajg95DajpG\ndE/3hmA5N70PWbaNYIex\n-----END PRIVATE KEY-----\n",
+  "client_email": "virtual-ex-storage-service-acc@virtual-ex-storage.iam.gserviceaccount.com",
+  "client_id": "111319457690469351358",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/virtual-ex-storage-service-acc%40virtual-ex-storage.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
